@@ -4,5 +4,5 @@ b.addEventListener("click", function() {
 });
 let b2= document.getElementById("myButtom");
 b2.addEventListener("dblclick", function() {
-    alert("new edition !");
+    alert("new zzzz !");
 });
